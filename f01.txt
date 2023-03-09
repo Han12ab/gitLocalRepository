@@ -2,4 +2,3 @@ hey boy
 hey everybody   (master test)
 4444+1111=5555  (hotPot test)
 the increase line...
-new MyThread()  by Jie
